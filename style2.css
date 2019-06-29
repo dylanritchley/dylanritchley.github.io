@@ -80,11 +80,9 @@ header a:hover{
 
 /* Showcase */
 #showcase {
-  min-height: 9000px;
+  min-width: 9000px;
 :background: #000000;
-  color: #000000;     
-repeat 2 -800px; text-align: center;
- color: #000000;
+ 
 }
 
 #showcase h1 {
