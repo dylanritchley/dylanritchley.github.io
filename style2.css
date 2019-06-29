@@ -80,9 +80,9 @@ header a:hover{
 
 /* Showcase */
 #showcase {
-  min-width: 9000px;
-:background: #000000;
- 
+  min-height: 400px;
+background:url('../img/city.jpg') no-repeat 0 -400px; text-align: center;
+ color: #ffffff;
 }
 
 #showcase h1 {
